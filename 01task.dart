@@ -7,6 +7,6 @@
 void main() {
 int num_one =5;
 int num_two=4;
-int variable_total=num_two;
+int variable_total=num_two+num_one;
 print(variable_total);
 }
